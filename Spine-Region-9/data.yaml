@@ -1,0 +1,12 @@
+names:
+- Vertebrae
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: spine-region
+  url: https://universe.roboflow.com/cadma/spine-region/dataset/9
+  version: 9
+  workspace: cadma
+test: ../test/images
+train: Spine-Region-9/train/images
+val: Spine-Region-9/valid/images
