@@ -468,3 +468,5 @@ For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https:/
 </div>
 
 [tta]: https://docs.ultralytics.com/yolov5/tutorials/test_time_augmentation
+#   v e r t e b r a e  
+ 
